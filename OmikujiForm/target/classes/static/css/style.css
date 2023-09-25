@@ -1,0 +1,27 @@
+* {
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+form, .box {
+	padding: 20px;
+	border: 1px solid black;
+	width: 450px;
+}
+
+.box {
+	background-color: lightblue;
+	font-size: 20pt;
+	padding: 35px;
+}
+
+.form-control {
+	margin-bottom: 10px;
+}
+
+button {
+	margin: 15px;
+}
