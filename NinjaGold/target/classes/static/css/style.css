@@ -1,0 +1,30 @@
+* {
+	background-color: LightGray;
+}
+
+.wrapper {
+	margin: auto;
+	width: 920px;
+	padding: 25px;
+	border: 1px solid black;
+}
+
+#box_line {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+.box {
+	padding: 0px 15px 15px;
+	border: 1px solid green;
+	width: 130px;
+	height: 130px;
+	text-align: center;
+}
+
+.logs {
+	border: 1px solid black;
+	margin: 0px 10px 10px;
+	padding: 0px 10px;
+}
