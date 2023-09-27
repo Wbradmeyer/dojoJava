@@ -1,0 +1,17 @@
+.container {
+	width: 550px;
+}
+
+h1 {
+	padding: 15px;
+	color: green;
+}
+
+.table {
+	border: 15px solid grey;
+	width: 550px;
+}
+
+td {
+	text-align: center;
+}
