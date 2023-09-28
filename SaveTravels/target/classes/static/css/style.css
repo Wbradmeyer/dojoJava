@@ -1,0 +1,42 @@
+body {
+	background-color: LightSeaGreen;
+}
+
+.container {
+	margin: auto;
+	width: 760px;
+	padding: 30px;
+	background-color: gray;
+}
+
+h1, h2 {
+	color: chartreuse;
+}
+
+.table {
+		background-color: white;
+
+}
+
+.action {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+.form {
+	padding: 20px 30px;
+}
+
+th, td {
+	text-align: center;
+}
+
+#header {
+	display: flex;
+	justify-content: space-between;
+}
+
+.show {
+	text-align: left;
+}
