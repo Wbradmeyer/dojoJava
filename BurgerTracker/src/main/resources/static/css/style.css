@@ -1,0 +1,17 @@
+.container {
+	margin: auto;
+	width: 660px;
+}
+
+.form {
+	padding: 20px 30px;
+}
+
+th, td {
+	text-align: center;
+}
+
+#header {
+	display: flex;
+	justify-content: space-between;
+}
