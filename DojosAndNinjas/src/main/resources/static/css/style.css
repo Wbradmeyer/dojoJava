@@ -1,0 +1,19 @@
+.container {
+	margin: auto;
+	width: 550px;
+	padding: 30px;
+	background-color: gray;
+}
+
+h1, h2 {
+	color: chartreuse;
+}
+
+.table {
+	background-color: white;
+	margin-top: 20px;
+}
+
+select {
+	margin-bottom: 20px;
+}
