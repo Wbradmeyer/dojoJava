@@ -1,0 +1,14 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+.container {
+	width: 760px;
+	padding: 20px;
+}
+
+#boxes {
+	display: flex;
+	justify-content: space-evenly;
+}
