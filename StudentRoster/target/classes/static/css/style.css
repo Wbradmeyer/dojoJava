@@ -1,0 +1,28 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+.container {
+	width: 760px;
+	padding: 20px;
+}
+
+.top-box, .middle-box {
+	border-bottom: 1px solid white;
+}
+
+h1 {
+	text-align: center;
+}
+
+.bottom-box {
+	border: 1px solid white;
+	padding: 15px;
+	margin: 15px 0px;
+}
+
+.table {
+		background-color: white;
+		text-align: center;
+}
